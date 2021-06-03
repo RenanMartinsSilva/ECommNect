@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ECommNect.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ECommNect.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommNect.Data.dll": {}
+        }
+      },
+      "ECommNect.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ECommNect.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommNect.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECommNect.Data/1.0.0": {
+      "type": "project",
+      "path": "../ECommNect.Data/ECommNect.Data.csproj",
+      "msbuildProject": "../ECommNect.Data/ECommNect.Data.csproj"
+    },
+    "ECommNect.Model/1.0.0": {
+      "type": "project",
+      "path": "../ECommNect.Model/ECommNect.Model.csproj",
+      "msbuildProject": "../ECommNect.Model/ECommNect.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ECommNect.Data >= 1.0.0",
+      "ECommNect.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Renan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Repository\\ECommNect.Repository.csproj",
+      "projectName": "ECommNect.Repository",
+      "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Repository\\ECommNect.Repository.csproj",
+      "packagesPath": "C:\\Users\\Renan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Repository\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Renan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Data\\ECommNect.Data.csproj": {
+              "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Data\\ECommNect.Data.csproj"
+            },
+            "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\ECommNect.Model.csproj": {
+              "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\ECommNect.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

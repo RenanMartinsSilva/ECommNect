@@ -1,0 +1,9 @@
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.Model\bin\Debug\netcoreapp3.1\ECommNect.Model.deps.json
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.Model\bin\Debug\netcoreapp3.1\ECommNect.Model.dll
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.Model\bin\Debug\netcoreapp3.1\ECommNect.Model.pdb
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.Model\obj\Debug\netcoreapp3.1\ECommNect.Model.csprojAssemblyReference.cache
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.Model\obj\Debug\netcoreapp3.1\ECommNect.Model.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.Model\obj\Debug\netcoreapp3.1\ECommNect.Model.AssemblyInfo.cs
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.Model\obj\Debug\netcoreapp3.1\ECommNect.Model.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.Model\obj\Debug\netcoreapp3.1\ECommNect.Model.dll
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.Model\obj\Debug\netcoreapp3.1\ECommNect.Model.pdb

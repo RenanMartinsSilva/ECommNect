@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ECommNect.Repository/1.0.0": {
+        "dependencies": {
+          "ECommNect.Data": "1.0.0",
+          "ECommNect.Model": "1.0.0"
+        },
+        "runtime": {
+          "ECommNect.Repository.dll": {}
+        }
+      },
+      "ECommNect.Data/1.0.0": {
+        "runtime": {
+          "ECommNect.Data.dll": {}
+        }
+      },
+      "ECommNect.Model/1.0.0": {
+        "runtime": {
+          "ECommNect.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECommNect.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ECommNect.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ECommNect.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

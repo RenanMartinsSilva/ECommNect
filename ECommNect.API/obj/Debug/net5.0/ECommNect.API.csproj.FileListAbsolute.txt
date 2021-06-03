@@ -1,0 +1,153 @@
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\bin\Debug\net5.0\appsettings.Development.json
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\bin\Debug\net5.0\appsettings.json
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.exe
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.deps.json
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.runtimeconfig.json
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.runtimeconfig.dev.json
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.dll
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\bin\Debug\net5.0\ref\ECommNect.API.dll
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.pdb
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csprojAssemblyReference.cache
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.GeneratedMSBuildEditorConfig.editorconfig
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.AssemblyInfoInputs.cache
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.AssemblyInfo.cs
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csproj.CoreCompileInputs.cache
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.MvcApplicationPartsAssemblyInfo.cs
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.MvcApplicationPartsAssemblyInfo.cache
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\staticwebassets\ECommNect.API.StaticWebAssets.Manifest.cache
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\staticwebassets\ECommNect.API.StaticWebAssets.xml
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\scopedcss\bundle\ECommNect.API.styles.css
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.RazorTargetAssemblyInfo.cache
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csproj.CopyComplete
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.dll
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\ref\ECommNect.API.dll
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.pdb
+P:\Devs em Desenvolvimento\E-CommNect\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.genruntimeconfig.cache
+C:\Nino\ECommNect\ECommNect.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Nino\ECommNect\ECommNect.API\bin\Debug\net5.0\appsettings.json
+C:\Nino\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.exe
+C:\Nino\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.deps.json
+C:\Nino\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.runtimeconfig.json
+C:\Nino\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.runtimeconfig.dev.json
+C:\Nino\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.dll
+C:\Nino\ECommNect\ECommNect.API\bin\Debug\net5.0\ref\ECommNect.API.dll
+C:\Nino\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.pdb
+C:\Nino\ECommNect\ECommNect.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Nino\ECommNect\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Nino\ECommNect\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Nino\ECommNect\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csproj.AssemblyReference.cache
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.AssemblyInfoInputs.cache
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.AssemblyInfo.cs
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csproj.CoreCompileInputs.cache
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\staticwebassets\ECommNect.API.StaticWebAssets.Manifest.cache
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\staticwebassets\ECommNect.API.StaticWebAssets.xml
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\scopedcss\bundle\ECommNect.API.styles.css
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.RazorTargetAssemblyInfo.cache
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csproj.CopyComplete
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.dll
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\ref\ECommNect.API.dll
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.pdb
+C:\Nino\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.genruntimeconfig.cache
+C:\Nino\ECommNect.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Nino\ECommNect.API\bin\Debug\net5.0\appsettings.json
+C:\Nino\ECommNect.API\bin\Debug\net5.0\ECommNect.API.exe
+C:\Nino\ECommNect.API\bin\Debug\net5.0\ECommNect.API.deps.json
+C:\Nino\ECommNect.API\bin\Debug\net5.0\ECommNect.API.runtimeconfig.json
+C:\Nino\ECommNect.API\bin\Debug\net5.0\ECommNect.API.runtimeconfig.dev.json
+C:\Nino\ECommNect.API\bin\Debug\net5.0\ECommNect.API.dll
+C:\Nino\ECommNect.API\bin\Debug\net5.0\ref\ECommNect.API.dll
+C:\Nino\ECommNect.API\bin\Debug\net5.0\ECommNect.API.pdb
+C:\Nino\ECommNect.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Nino\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Nino\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Nino\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Nino\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csproj.AssemblyReference.cache
+C:\Nino\ECommNect.API\obj\Debug\net5.0\ECommNect.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nino\ECommNect.API\obj\Debug\net5.0\ECommNect.API.AssemblyInfoInputs.cache
+C:\Nino\ECommNect.API\obj\Debug\net5.0\ECommNect.API.AssemblyInfo.cs
+C:\Nino\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csproj.CoreCompileInputs.cache
+C:\Nino\ECommNect.API\obj\Debug\net5.0\ECommNect.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Nino\ECommNect.API\obj\Debug\net5.0\ECommNect.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Nino\ECommNect.API\obj\Debug\net5.0\staticwebassets\ECommNect.API.StaticWebAssets.Manifest.cache
+C:\Nino\ECommNect.API\obj\Debug\net5.0\staticwebassets\ECommNect.API.StaticWebAssets.xml
+C:\Nino\ECommNect.API\obj\Debug\net5.0\scopedcss\bundle\ECommNect.API.styles.css
+C:\Nino\ECommNect.API\obj\Debug\net5.0\ECommNect.API.RazorTargetAssemblyInfo.cache
+C:\Nino\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csproj.CopyComplete
+C:\Nino\ECommNect.API\obj\Debug\net5.0\ECommNect.API.dll
+C:\Nino\ECommNect.API\obj\Debug\net5.0\ref\ECommNect.API.dll
+C:\Nino\ECommNect.API\obj\Debug\net5.0\ECommNect.API.pdb
+C:\Nino\ECommNect.API\obj\Debug\net5.0\ECommNect.API.genruntimeconfig.cache
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\bin\Debug\net5.0\appsettings.json
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.exe
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.deps.json
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.runtimeconfig.json
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.runtimeconfig.dev.json
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.dll
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\bin\Debug\net5.0\ref\ECommNect.API.dll
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\bin\Debug\net5.0\ECommNect.API.pdb
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csprojAssemblyReference.cache
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.AssemblyInfo.cs
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\staticwebassets\ECommNect.API.StaticWebAssets.Manifest.cache
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\staticwebassets\ECommNect.API.StaticWebAssets.xml
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\scopedcss\bundle\ECommNect.API.styles.css
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.RazorTargetAssemblyInfo.cache
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csproj.CopyComplete
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.dll
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\ref\ECommNect.API.dll
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.pdb
+C:\Users\Renan\source\repos\ECommNect\ECommNect.API\obj\Debug\net5.0\ECommNect.API.genruntimeconfig.cache
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\appsettings.json
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ECommNect.API.exe
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ECommNect.API.deps.json
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ECommNect.API.runtimeconfig.json
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ECommNect.API.runtimeconfig.dev.json
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ECommNect.API.dll
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ref\ECommNect.API.dll
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ECommNect.API.pdb
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ECommNect.Business.dll
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ECommNect.Data.dll
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ECommNect.Model.dll
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ECommNect.Repository.dll
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ECommNect.Business.pdb
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ECommNect.Model.pdb
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ECommNect.Data.pdb
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\bin\Debug\net5.0\ECommNect.Repository.pdb
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csprojAssemblyReference.cache
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\ECommNect.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\ECommNect.API.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\ECommNect.API.AssemblyInfo.cs
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\ECommNect.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\ECommNect.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\staticwebassets\ECommNect.API.StaticWebAssets.Manifest.cache
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\staticwebassets\ECommNect.API.StaticWebAssets.xml
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\scopedcss\bundle\ECommNect.API.styles.css
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\ECommNect.API.RazorTargetAssemblyInfo.cache
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\ECommNect.API.csproj.CopyComplete
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\ECommNect.API.dll
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\ref\ECommNect.API.dll
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\ECommNect.API.pdb
+C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.API\obj\Debug\net5.0\ECommNect.API.genruntimeconfig.cache
