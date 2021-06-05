@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\ECommNect.Model.csproj",
+      "projectUniqueName": "C:\\API.Test\\ECommNect\\ECommNect.Model\\ECommNect.Model.csproj",
       "projectName": "ECommNect.Model",
-      "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\ECommNect.Model.csproj",
+      "projectPath": "C:\\API.Test\\ECommNect\\ECommNect.Model\\ECommNect.Model.csproj",
       "packagesPath": "C:\\Users\\Renan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\obj\\",
+      "outputPath": "C:\\API.Test\\ECommNect\\ECommNect.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Renan\\AppData\\Roaming\\NuGet\\NuGet.Config",

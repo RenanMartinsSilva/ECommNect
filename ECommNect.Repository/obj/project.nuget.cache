@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9P8FY8yFUbwpskEqf/88wQ8zzG+nKFtF3uUCGicm3gyjtUVHW6NNDPKD6PDRhJqgeZOp+AaIunTMGNX8MonEhQ==",
+  "dgSpecHash": "gU0DSANPhcUrHzGl01Sx6FmRaFlzFhgKkSKIWjF8talr7EnbjTDLd1EtzSIwR0PM1P8UcdhgqKHuK2wPFWz5Mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Repository\\ECommNect.Repository.csproj",
+  "projectFilePath": "C:\\API.Test\\ECommNect\\ECommNect.Repository\\ECommNect.Repository.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

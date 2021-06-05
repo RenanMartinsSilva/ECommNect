@@ -268,11 +268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.API\\ECommNect.API.csproj",
+      "projectUniqueName": "C:\\API.Test\\ECommNect\\ECommNect.API\\ECommNect.API.csproj",
       "projectName": "ECommNect.API",
-      "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.API\\ECommNect.API.csproj",
+      "projectPath": "C:\\API.Test\\ECommNect\\ECommNect.API\\ECommNect.API.csproj",
       "packagesPath": "C:\\Users\\Renan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.API\\obj\\",
+      "outputPath": "C:\\API.Test\\ECommNect\\ECommNect.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Renan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -289,11 +289,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Business\\ECommNect.Business.csproj": {
-              "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Business\\ECommNect.Business.csproj"
+            "C:\\API.Test\\ECommNect\\ECommNect.Business\\ECommNect.Business.csproj": {
+              "projectPath": "C:\\API.Test\\ECommNect\\ECommNect.Business\\ECommNect.Business.csproj"
             },
-            "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\ECommNect.Model.csproj": {
-              "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\ECommNect.Model.csproj"
+            "C:\\API.Test\\ECommNect\\ECommNect.Model\\ECommNect.Model.csproj": {
+              "projectPath": "C:\\API.Test\\ECommNect\\ECommNect.Model\\ECommNect.Model.csproj"
             }
           }
         }

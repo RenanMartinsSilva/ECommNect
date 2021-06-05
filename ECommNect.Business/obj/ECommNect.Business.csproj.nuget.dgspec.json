@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Business\\ECommNect.Business.csproj": {}
+    "C:\\API.Test\\ECommNect\\ECommNect.Business\\ECommNect.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Business\\ECommNect.Business.csproj": {
+    "C:\\API.Test\\ECommNect\\ECommNect.Business\\ECommNect.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Business\\ECommNect.Business.csproj",
+        "projectUniqueName": "C:\\API.Test\\ECommNect\\ECommNect.Business\\ECommNect.Business.csproj",
         "projectName": "ECommNect.Business",
-        "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Business\\ECommNect.Business.csproj",
+        "projectPath": "C:\\API.Test\\ECommNect\\ECommNect.Business\\ECommNect.Business.csproj",
         "packagesPath": "C:\\Users\\Renan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Business\\obj\\",
+        "outputPath": "C:\\API.Test\\ECommNect\\ECommNect.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Renan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\ECommNect.Model.csproj": {
-                "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\ECommNect.Model.csproj"
+              "C:\\API.Test\\ECommNect\\ECommNect.Model\\ECommNect.Model.csproj": {
+                "projectPath": "C:\\API.Test\\ECommNect\\ECommNect.Model\\ECommNect.Model.csproj"
               },
-              "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Repository\\ECommNect.Repository.csproj": {
-                "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Repository\\ECommNect.Repository.csproj"
+              "C:\\API.Test\\ECommNect\\ECommNect.Repository\\ECommNect.Repository.csproj": {
+                "projectPath": "C:\\API.Test\\ECommNect\\ECommNect.Repository\\ECommNect.Repository.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Data\\ECommNect.Data.csproj": {
+    "C:\\API.Test\\ECommNect\\ECommNect.Data\\ECommNect.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Data\\ECommNect.Data.csproj",
+        "projectUniqueName": "C:\\API.Test\\ECommNect\\ECommNect.Data\\ECommNect.Data.csproj",
         "projectName": "ECommNect.Data",
-        "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Data\\ECommNect.Data.csproj",
+        "projectPath": "C:\\API.Test\\ECommNect\\ECommNect.Data\\ECommNect.Data.csproj",
         "packagesPath": "C:\\Users\\Renan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Data\\obj\\",
+        "outputPath": "C:\\API.Test\\ECommNect\\ECommNect.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Renan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -119,14 +119,14 @@
         }
       }
     },
-    "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\ECommNect.Model.csproj": {
+    "C:\\API.Test\\ECommNect\\ECommNect.Model\\ECommNect.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\ECommNect.Model.csproj",
+        "projectUniqueName": "C:\\API.Test\\ECommNect\\ECommNect.Model\\ECommNect.Model.csproj",
         "projectName": "ECommNect.Model",
-        "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\ECommNect.Model.csproj",
+        "projectPath": "C:\\API.Test\\ECommNect\\ECommNect.Model\\ECommNect.Model.csproj",
         "packagesPath": "C:\\Users\\Renan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\obj\\",
+        "outputPath": "C:\\API.Test\\ECommNect\\ECommNect.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Renan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -173,14 +173,14 @@
         }
       }
     },
-    "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Repository\\ECommNect.Repository.csproj": {
+    "C:\\API.Test\\ECommNect\\ECommNect.Repository\\ECommNect.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Repository\\ECommNect.Repository.csproj",
+        "projectUniqueName": "C:\\API.Test\\ECommNect\\ECommNect.Repository\\ECommNect.Repository.csproj",
         "projectName": "ECommNect.Repository",
-        "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Repository\\ECommNect.Repository.csproj",
+        "projectPath": "C:\\API.Test\\ECommNect\\ECommNect.Repository\\ECommNect.Repository.csproj",
         "packagesPath": "C:\\Users\\Renan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Repository\\obj\\",
+        "outputPath": "C:\\API.Test\\ECommNect\\ECommNect.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Renan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -197,11 +197,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Data\\ECommNect.Data.csproj": {
-                "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Data\\ECommNect.Data.csproj"
+              "C:\\API.Test\\ECommNect\\ECommNect.Data\\ECommNect.Data.csproj": {
+                "projectPath": "C:\\API.Test\\ECommNect\\ECommNect.Data\\ECommNect.Data.csproj"
               },
-              "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\ECommNect.Model.csproj": {
-                "projectPath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.Model\\ECommNect.Model.csproj"
+              "C:\\API.Test\\ECommNect\\ECommNect.Model\\ECommNect.Model.csproj": {
+                "projectPath": "C:\\API.Test\\ECommNect\\ECommNect.Model\\ECommNect.Model.csproj"
               }
             }
           }

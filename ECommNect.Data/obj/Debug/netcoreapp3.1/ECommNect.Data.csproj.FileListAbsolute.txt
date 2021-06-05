@@ -7,3 +7,12 @@ C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.Data\obj\Debug\netcoreapp3.
 C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.Data\obj\Debug\netcoreapp3.1\ECommNect.Data.csproj.CoreCompileInputs.cache
 C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.Data\obj\Debug\netcoreapp3.1\ECommNect.Data.dll
 C:\Users\Renan\source\repos\ECommNect-Test\ECommNect.Data\obj\Debug\netcoreapp3.1\ECommNect.Data.pdb
+C:\API.Test\ECommNect\ECommNect.Data\bin\Debug\netcoreapp3.1\ECommNect.Data.deps.json
+C:\API.Test\ECommNect\ECommNect.Data\bin\Debug\netcoreapp3.1\ECommNect.Data.dll
+C:\API.Test\ECommNect\ECommNect.Data\bin\Debug\netcoreapp3.1\ECommNect.Data.pdb
+C:\API.Test\ECommNect\ECommNect.Data\obj\Debug\netcoreapp3.1\ECommNect.Data.csprojAssemblyReference.cache
+C:\API.Test\ECommNect\ECommNect.Data\obj\Debug\netcoreapp3.1\ECommNect.Data.AssemblyInfoInputs.cache
+C:\API.Test\ECommNect\ECommNect.Data\obj\Debug\netcoreapp3.1\ECommNect.Data.AssemblyInfo.cs
+C:\API.Test\ECommNect\ECommNect.Data\obj\Debug\netcoreapp3.1\ECommNect.Data.csproj.CoreCompileInputs.cache
+C:\API.Test\ECommNect\ECommNect.Data\obj\Debug\netcoreapp3.1\ECommNect.Data.dll
+C:\API.Test\ECommNect\ECommNect.Data\obj\Debug\netcoreapp3.1\ECommNect.Data.pdb

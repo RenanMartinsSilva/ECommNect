@@ -16,7 +16,7 @@ namespace ECommNect.API.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "Renan", "Vinicius", "Henrique" };
         }
 
         // GET api/<ProdutosController>/5

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C+AfxuKgtWKgqXBWlGNCyV9miQOQZq7itcDI+Mj+zeOhaaS39makfsA4lOfR5W9/wELQxySf4gCz/hoJCM+q1Q==",
+  "dgSpecHash": "CfcYOULcviokvNztDuzDNYHo42cARm/6pDXkSm3mwfJlvqjnm186CTY1kBQrO3Yxf4gL7Kd7FJ3VU7JgszO3qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Renan\\source\\repos\\ECommNect-Test\\ECommNect.API\\ECommNect.API.csproj",
+  "projectFilePath": "C:\\API.Test\\ECommNect\\ECommNect.API\\ECommNect.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Renan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Renan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
